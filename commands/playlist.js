@@ -10,7 +10,7 @@ const {
   DEFAULT_VOLUME,
   LOCALE
 } = require("../util/EvobotUtil");
-const youtube = new YouTubeAPI(YOUTUBE_API_KEY);
+const youtube = new YouTubeAPI(process.env.YOUTUBE_API_KEY);
 const i18n = require("i18n");
 
 i18n.setLocale(LOCALE);

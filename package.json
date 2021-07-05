@@ -1,13 +1,13 @@
 {
-  "name": "evobot",
+  "name": "ZeroTsu",
   "version": "0.10.0",
-  "description": "Discord music bot built with discord.js",
+  "description": "Bot discord musique Open Source",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Artoria00",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/Artoria01/zerozerotwo/",
+  "repository": "github:Artoria01/zerozerotwo/",
+  "bugs": "",
   "engines": {
     "node": ">=14.0.0"
   },
